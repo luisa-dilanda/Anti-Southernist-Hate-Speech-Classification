@@ -1,0 +1,1 @@
+This project creates the first dataset labeled for Anti-Southernist Hate Speech Detection. The repository contains the files for the creation and labeling of the dataset, textual augmentation, and some models that were trained and/or used for the hate speech classification task.
